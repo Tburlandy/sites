@@ -1,0 +1,72 @@
+{
+  "smilesTransformed": [
+    {
+      "id": "7379e13a-748f-4272-9c4d-3641b9531097",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-niteroi-smilesTransformed-1764357291970.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Niterói",
+      "order": 0,
+      "zoom": 1.25,
+      "positionX": 0,
+      "positionY": 0
+    },
+    {
+      "id": "b128388c-0e51-4733-bec7-018a71b4c77e",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-niteroi-smilesTransformed-1764356448700.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Niterói",
+      "order": 1
+    },
+    {
+      "id": "cba1a649-ef99-4f18-a7dd-d54357224188",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-niteroi-smilesTransformed-1764356463696.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Niterói",
+      "order": 2
+    }
+  ],
+  "doctorHighlight": [
+    {
+      "id": "94d79ac3-e1b8-4027-ba3b-9bebcc95f50f",
+      "type": "image",
+      "src": "/images/doctor/implante-dentario-niteroi-doctorHighlight-1764359353908.webp",
+      "alt": "Dentista especialista em implante dentário em Niterói",
+      "order": 0,
+      "zoom": 1,
+      "positionX": 0,
+      "positionY": 0
+    }
+  ],
+  "realStories": [
+    {
+      "id": "069f7fbe-df6d-466a-bd6f-87a395678a34",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-niteroi-realStories-1764359668242.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Niterói",
+      "order": 0
+    },
+    {
+      "id": "fa7a23eb-fea9-42d8-a97e-6c152cbf8fe3",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-niteroi-realStories-1764359672533.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Niterói",
+      "order": 1
+    },
+    {
+      "id": "b83d1ed0-f66f-4481-a605-d02662ad5043",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-niteroi-realStories-1764359674540.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Niterói",
+      "order": 2
+    }
+  ],
+  "clinicStructure": [
+    {
+      "id": "d06a2c62-f0bd-4af0-a190-2b72d48fb844",
+      "type": "image",
+      "src": "/images/clinic/implante-dentario-niteroi-clinicStructure-1764359753965.webp",
+      "alt": "Estrutura da clínica de implante dentário em Niterói",
+      "order": 0
+    }
+  ]
+}

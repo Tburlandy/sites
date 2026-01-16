@@ -1,0 +1,27 @@
+export type MediaSectionKey = "smilesTransformed" | "doctorHighlight" | "realStories" | "clinicStructure";
+
+export type MediaType = "image" | "video";
+
+export interface MediaItem {
+  id: string;
+  type: MediaType;
+  src: string;
+  alt: string;
+  description?: string;
+  poster?: string;
+  order: number;
+  // Transformações de posição e zoom
+  transform?: {
+    scale: number; // Zoom (1.0 = 100%, 2.0 = 200%, etc)
+    translateX: number; // Movimento horizontal em pixels
+    translateY: number; // Movimento vertical em pixels
+  };
+}
+
+export interface MediaSections {
+  smilesTransformed: MediaItem[];
+  doctorHighlight: MediaItem[];
+  realStories: MediaItem[];
+  clinicStructure: MediaItem[];
+}
+

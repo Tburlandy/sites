@@ -1,0 +1,87 @@
+{
+  "smilesTransformed": [
+    {
+      "id": "afa4086d-283b-48b3-84fb-705e7bf3151d",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-barra-da-tijuca-smilesTransformed-1763148012393.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Barra da Tijuca",
+      "order": 0
+    },
+    {
+      "id": "6cd3017f-a4ac-442c-bcb2-132b788a8393",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-barra-da-tijuca-smilesTransformed-1763148013757.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Barra da Tijuca",
+      "order": 1
+    },
+    {
+      "id": "195fe465-a14f-4913-b9f6-9eb9a529e184",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-barra-da-tijuca-smilesTransformed-1763149766099.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Barra da Tijuca",
+      "order": 2
+    }
+  ],
+  "doctorHighlight": [
+    {
+      "id": "1a67283a-8661-4954-bed6-d7b62a8c486b",
+      "type": "image",
+      "src": "/images/doctor/implante-dentario-marica-doctorHighlight-1763147425902.webp",
+      "alt": "Dentista especialista em implante dentário em Maricá",
+      "order": 0
+    },
+    {
+      "id": "078a41ae-0bdd-497f-bf24-260b5a50c0a2",
+      "type": "image",
+      "src": "/images/doctor/implante-dentario-marica-doctorHighlight-1763147462912.webp",
+      "alt": "Dentista especialista em implante dentário em Maricá",
+      "order": 1
+    }
+  ],
+  "realStories": [
+    {
+      "id": "bd088e5a-eca4-4061-bac3-1a1d472a7b49",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-marica-realStories-1763147525942.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Maricá",
+      "order": 0
+    },
+    {
+      "id": "e013b881-4ac3-4ed3-bdab-5796f2d40856",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-marica-realStories-1763147539176.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Maricá",
+      "order": 1
+    },
+    {
+      "id": "28f26e78-e13f-460e-996a-b387b03f7276",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-barra-da-tijuca-realStories-1763149133248.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Barra da Tijuca",
+      "order": 2
+    }
+  ],
+  "clinicStructure": [
+    {
+      "id": "f2ff99bf-b83a-4eae-8467-2ee92254777e",
+      "type": "image",
+      "src": "/images/other/implante-dentario-barra-da-tijuca-clinicStructure-1763148060071.webp",
+      "alt": "Imagem relacionada a implante dentário em Barra da Tijuca",
+      "order": 0
+    },
+    {
+      "id": "adcef915-45ec-43b0-a451-55a838a9bc6b",
+      "type": "image",
+      "src": "/images/other/implante-dentario-barra-da-tijuca-clinicStructure-1763148061560.webp",
+      "alt": "Imagem relacionada a implante dentário em Barra da Tijuca",
+      "order": 1
+    },
+    {
+      "id": "5ad530b6-fff8-4687-9a23-1a24c0693ea4",
+      "type": "image",
+      "src": "/images/other/implante-dentario-barra-da-tijuca-clinicStructure-1763148062677.webp",
+      "alt": "Imagem relacionada a implante dentário em Barra da Tijuca",
+      "order": 2
+    }
+  ]
+}

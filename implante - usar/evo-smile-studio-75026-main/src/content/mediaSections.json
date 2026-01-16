@@ -1,0 +1,91 @@
+{
+  "smilesTransformed": [
+    {
+      "id": "256d7e49-5ada-478b-a9ac-7dd6d14c1e0f",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-osasco-smilesTransformed-1763412374277.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Osasco",
+      "order": 0,
+      "transform": {
+        "scale": 1.2000000000000002,
+        "translateX": 0,
+        "translateY": 0
+      }
+    },
+    {
+      "id": "2a2ccd3a-73c4-4737-94e5-4a9d4f3fc6f1",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-osasco-smilesTransformed-1763412377069.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Osasco",
+      "order": 1
+    },
+    {
+      "id": "b6ccd4fb-de3c-47f6-8b52-3c67f5d2020e",
+      "type": "image",
+      "src": "/images/smiles/implante-dentario-osasco-smilesTransformed-1763412378215.webp",
+      "alt": "Antes e depois de paciente tratado com implante dentário em Osasco",
+      "order": 2
+    }
+  ],
+  "doctorHighlight": [
+    {
+      "id": "ac490023-1041-46e7-9897-dfbcbe9e602b",
+      "type": "image",
+      "src": "/images/doctor/implante-dentario-osasco-doctorHighlight-1763412408412.webp",
+      "alt": "Dentista especialista em implante dentário em Osasco",
+      "order": 0
+    }
+  ],
+  "realStories": [
+    {
+      "id": "d3e9f2da-92fc-455b-bef0-a498b6e216b6",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-osasco-realStories-1763413011701.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Osasco",
+      "order": 0,
+      "transform": {
+        "scale": 1.2,
+        "translateX": 9,
+        "translateY": -2
+      }
+    },
+    {
+      "id": "f18c472a-c04c-4661-b4c1-ba64db0da2cf",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-osasco-realStories-1763413019678.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Osasco",
+      "order": 1,
+      "transform": {
+        "scale": 1.2000000000000002,
+        "translateX": 4,
+        "translateY": 0
+      }
+    },
+    {
+      "id": "5146bf93-74f0-4173-9838-4ad50c7795da",
+      "type": "video",
+      "src": "/videos/stories/video-implante-dentario-osasco-realStories-1763414349730.mp4",
+      "alt": "Depoimento de paciente sobre implante dentário em Osasco",
+      "order": 2,
+      "transform": {
+        "scale": 1.2000000000000002,
+        "translateX": 1,
+        "translateY": 24
+      }
+    }
+  ],
+  "clinicStructure": [
+    {
+      "id": "ac75d05c-92ed-4cc0-92c1-7303e1028428",
+      "type": "image",
+      "src": "/images/clinic/implante-dentario-osasco-clinicStructure-1763413052253.webp",
+      "alt": "Estrutura da clínica de implante dentário em Osasco",
+      "order": 0,
+      "transform": {
+        "scale": 2.4,
+        "translateX": 2,
+        "translateY": 40
+      }
+    }
+  ]
+}
